@@ -19,7 +19,7 @@ This repository is designed as a **refresher and practice resource** rather than
 ```text
 .
 ├── notebooks/          # Jupyter notebooks (.ipynb)
-├── notebooks/dataset/     # Datasets used in the project
+├── notebooks/dataset/  # Datasets used in the project
 ├── pandas_guide.pdf    # Detailed explanation / documentation (PDF)
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Git ignored files and folders
