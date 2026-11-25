@@ -1,0 +1,19 @@
+CarID,Model,color,size,Price
+CAR-001,Civic,red,small,21500
+CAR-002,Corolla,blue,medium,23000
+CAR-003,Tahoe,green,large,56000
+CAR-004,Golf,blue,small,24500
+CAR-005,Camry,red,medium,27000
+CAR-006,Suburban,blue,large,60500
+CAR-007,Yaris,green,small,19500
+CAR-008,Accord,red,medium,28500
+CAR-009,Expedition,green,large,58000
+CAR-010,Mini Cooper,red,small,26000
+CAR-011,Model 3,blue,medium,39000
+CAR-012,F-150,red,large,48000
+CAR-013,Fiesta,green,small,18000
+CAR-014,Passat,blue,medium,31000
+CAR-015,4Runner,green,large,45000
+CAR-016,Spark,red,small,16500
+CAR-017,Altima,green,medium,25500
+CAR-018,Bronco,blue,large,44000

@@ -1,0 +1,26 @@
+OrderID,Customer,date_order,Amount
+ORD-2001,Alice Smith,2026-01-15,120.5
+ORD-2002,Bob Johnson,15/01/2026,85.0
+ORD-2003,Charlie Brown,01-15-2026,210.0
+ORD-2004,Diana Prince,2026/01/16,45.99
+ORD-2005,Evan Wright,"Jan 17, 2026",300.0
+ORD-2006,Fiona Gallagher,17 January 2026,150.25
+ORD-2007,George Miller,  2026-01-18  ,75.0
+ORD-2008,Hannah Abbott,20260119,420.1
+ORD-2009,Ian Malcolm,19.01.2026,60.0
+ORD-2010,Jane Doe,2026-1-5,95.5
+ORD-2011,Kevin Hart,05/02/26,180.0
+ORD-2012,Laura Croft,Feb 06 2026,250.75
+ORD-2013,Mike Ross,2026-02-07 14:30:00,110.0
+ORD-2014,Nina Simone,2026-02-08T09:15:00Z,55.0
+ORD-2015,Oscar Wilde,09-Feb-2026,135.4
+ORD-2016,Paula Patton,10/02/2026,89.99
+ORD-2017,Quentin Tarantino,2026/2/11,500.0
+ORD-2018,Rachel Green,"March 12, 2026",72.3
+ORD-2019,Steve Rogers,,190.0
+ORD-2020,Tony Stark,N/A,999.99
+ORD-2021,Uma Thurman,2026-02-30,140.0
+ORD-2022,Victor Hugo,14/03/2026 08:45,215.5
+ORD-2023,Wanda Maximoff,   ,68.0
+ORD-2024,Xavier Charles,2026.03.15,310.2
+ORD-2025,Yara Greyjoy,unknown,40.0

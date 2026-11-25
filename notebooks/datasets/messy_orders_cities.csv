@@ -1,0 +1,26 @@
+OrderID,Customer,City,Amount,Status
+ORD-1001,Alice Smith,london,120.5,delivered
+ORD-1002,Bob Johnson,London.,85.0,Delivered
+ORD-1003,Charlie Brown,LONDON ,210.0,pending
+ORD-1004,Diana Prince,   london    ,45.99,SHIPPED
+ORD-1005,Evan Wright,Lndon,300.0,delivered
+ORD-1006,Fiona Gallagher,new york,150.25,Pending
+ORD-1007,George Miller,New York!,75.0,cancelled
+ORD-1008,Hannah Abbott,  NEW YORK  ,420.1,Delivered
+ORD-1009,Ian Malcolm,new-york,60.0,shipped
+ORD-1010,Jane Doe,NY,95.5,delivered
+ORD-1011,Kevin Hart,paris,180.0,Delivered
+ORD-1012,Laura Croft,"  Paris, ",250.75,pending
+ORD-1013,Mike Ross,PARIS,110.0,Shipped
+ORD-1014,Nina Simone,Pariss,55.0,delivered
+ORD-1015,Oscar Wilde,berlin,135.4,Cancelled
+ORD-1016,Paula Patton,  Berlin. ,89.99,delivered
+ORD-1017,Quentin Tarantino,BERLIN,500.0,SHIPPED
+ORD-1018,Rachel Green,Berln,72.3,pending
+ORD-1019,Steve Rogers,,190.0,delivered
+ORD-1020,Tony Stark,   ,999.99,Delivered
+ORD-1021,Uma Thurman,London (UK),140.0,shipped
+ORD-1022,Victor Hugo,  new   york ,215.5,delivered
+ORD-1023,Wanda Maximoff,paris.,68.0,Pending
+ORD-1024,Xavier Charles,London,310.2,delivered
+ORD-1025,Yara Greyjoy,N/A,40.0,cancelled
