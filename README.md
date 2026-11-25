@@ -11,7 +11,7 @@ This repository is designed as a **refresher and practice resource** rather than
 ## What’s Inside
 
 - **Notebooks (`notebooks/`):** Exploratory notebooks covering multiple real and generated datasets, focusing on inspection, preprocessing, and basic data cleaning.
-- **Datasets (`notebooks/data/`):** The real and generated datasets used across the notebooks.
+- **Datasets (`notebooks/dataset/`):** The real and generated datasets used across the notebooks.
 - **Documentation (`pandas_guide.pdf`):** Full explanations and walkthroughs—written in **Persian**.
 
 ## Repository Structure
@@ -19,7 +19,7 @@ This repository is designed as a **refresher and practice resource** rather than
 ```text
 .
 ├── notebooks/          # Jupyter notebooks (.ipynb)
-├── notebooks/data/     # Datasets used in the project
+├── notebooks/dataset/     # Datasets used in the project
 ├── pandas_guide.pdf    # Detailed explanation / documentation (PDF)
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Git ignored files and folders
