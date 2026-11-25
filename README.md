@@ -1,6 +1,6 @@
 # Pandas Guide
 
-A hands on **pandas** mini-project focused on exploring multiple real and synthetically generated datasets while practicing core data preprocessing and data cleaning techniques.
+A hands on **pandas** mini-project focused on exploring multiple real and synthetically generated datasets while practicing basic data preprocessing and data cleaning techniques.
 
 ## Target Audience & Purpose
 
